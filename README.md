@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=260&section=header&text=Rajasundaram%20P&fontSize=45&fontAlign=50&fontAlignY=38&desc=Python%20Developer%20|%20Web%20Developer%20|%20Machine%20Learning&descAlign=50&descAlignY=60&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&section=header&text=Rajasundaram%20P&fontSize=45&fontAlign=50&fontAlignY=38&desc=Python%20Developer%20|%20Web%20Developer%20|%20Machine%20Learning&descAlign=50&descAlignY=60&animation=fadeIn"/>
 </p>
 
 # <p align="center">Hi 👋, I'm Rajasundaram P</p>
