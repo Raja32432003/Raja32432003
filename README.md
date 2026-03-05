@@ -5,7 +5,7 @@
 # <p align="center">Hi 👋, I'm Rajasundaram P</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Python+Developer;Machine+Learning+Learner;Web+Development+Enthusiast;Future+Software+Engineer!" />
+<img src="https://readme-typing-svg.herokuapp.com?color=FF5733&size=28&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Python+Developer;Machine+Learning+Learner;Web+Development+Enthusiast;Future+Software+Engineer" />
 </p>
 
 ---
@@ -105,6 +105,35 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raja32432003&theme=tokyonight" />
 
+</p>
+
+---
+## 🖥️ My Workspace
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=My+Development+Workspace;Coding+%7C+Learning+%7C+Building+Projects;Python+%7C+SQL+%7C+Web+Development"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Browser-Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Version%20Control-Git%20%7C%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Programming-Python%20%7C%20C-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Productivity-MS%20Word%20%7C%20Excel%20%7C%20PowerPoint-D83B01?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Design-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+<p align="center">
+💻 Coding &nbsp;|&nbsp; 📊 Data &nbsp;|&nbsp; 🌐 Web Development &nbsp;|&nbsp; 🚀 Building Projects
 </p>
 
 ---
