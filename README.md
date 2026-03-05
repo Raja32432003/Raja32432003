@@ -1,16 +1,135 @@
-## Hi there 👋
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=260&section=header&text=Rajasundaram%20P&fontSize=45&fontAlign=50&fontAlignY=38&desc=Python%20Developer%20|%20Web%20Developer%20|%20Machine%20Learning&descAlign=50&descAlignY=60&animation=fadeIn"/>
+</p>
 
-<!--
-**Raja32432003/Raja32432003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <p align="center">Hi 👋, I'm Rajasundaram P</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Python+Developer;Machine+Learning+Learner;Web+Development+Enthusiast;Future+Software+Engineer!" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🚀 About Me
+
+🎓 **BE – Computer Science & Engineering**
+
+💡 Passionate about **Programming, Machine Learning, and Web Development**
+
+🌱 Currently learning
+
+* Python Development
+* SQL Database
+* Data Structures
+* Machine Learning
+* Data Analytics
+
+---
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p>
+
+---
+
+# 🛠️ Technical Skills
+
+### 💻 Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js,mysql" />
+</p>
+
+---
+
+### ⚙️ Tools & Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+### 📊 Other Skills
+
+
+<p align="center">
+
+<img src="https://img.icons8.com/color/48/canva.png" title="Canva"/>
+<img src="https://img.icons8.com/color/48/microsoft-word-2019.png" title="MS Word"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" title="MS Excel"/>
+<img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" title="MS PowerPoint"/>
+<img src="https://img.icons8.com/color/48/chatgpt.png" title="ChatGPT"/>
+
+</p>
+
+---
+
+# 🌍 Languages
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Tamil-Native-green?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/English-Professional-blue?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+
+</p>
+
+---
+
+# 📫 Contact Me
+
+<p align="center">
+
+<a href="mailto:raja818sri@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rajasundaram-p-94b724265">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Raja32432003&show_icons=true&theme=tokyonight" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raja32432003&theme=tokyonight" />
+
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raja32432003&theme=tokyo-night" />
+
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+
+</p>
+
+---
+
+✨ **"Always Learning, Always Building."**
+
+---
+
